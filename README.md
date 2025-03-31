@@ -2,7 +2,7 @@
 
 Domain Sorgulama Aracı, alan adlarının (domainlerin) durumunu hızlı ve toplu şekilde kontrol edebilmenizi sağlayan ücretsiz ve açık kaynaklı bir Python uygulamasıdır. Modern arayüzü ve gelişmiş özellikleriyle domain kontrolü işlemlerinizi kolaylaştırır.
 
-![Domain Sorgulama Aracı Ekran Görüntüsü](./screenshots/main_screen.png)
+![Domain Sorgulama Aracı Ekran Görüntüsü](https://i.hizliresim.com/4ft2qwi.jpg)
 
 ## 🚀 Özellikler
 
