@@ -25,8 +25,8 @@ Domain Sorgulama Aracı, alan adlarının (domainlerin) durumunu hızlı ve topl
 1. **Repoyu klonlayın**
 
 ```bash
-git clone https://github.com/kullaniciadi/domain-sorgulama-araci.git
-cd domain-sorgulama-araci
+git clone https://github.com/trillebart1/DomainChecker.git
+cd DomainChecker
 ```
 
 2. **Sanal ortam oluşturun (isteğe bağlı ama önerilir)**
